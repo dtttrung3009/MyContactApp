@@ -29,7 +29,7 @@ export default class AddScreen extends Component {
                 }}
                     keyboardType="number-pad"
                     placeholder="Enter phone number"
-                    secureTextEntry={true}
+                    
 
                 ></TextInput>
                 <Button title='Save' style="width:50"></Button>
